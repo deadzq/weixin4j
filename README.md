@@ -1,4 +1,5 @@
-> 引自 foxinmy/weixin4j 非ansitech版本 (ansitech做了小demo https://github.com/deadzq/weixin4j-spring-demo)
+> 引自 foxinmy/weixin4j 非ansitech版本 
+(ansitech/weixin4j做了小demo https://github.com/deadzq/weixin4j-spring-demo)
 
 weixin4j
 ========
